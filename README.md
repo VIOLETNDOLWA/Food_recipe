@@ -1,1 +1,1 @@
-# food recipe application based on an external API
+# Food recipe application using Meal DB API
